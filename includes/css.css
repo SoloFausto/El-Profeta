@@ -1,0 +1,13 @@
+a{
+    font-size: 20px;
+}
+.titlebox {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    left: 51px;
+    top: 0px;
+    justify-content: space-between;
+    background-color: #f8d393;
+}
